@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tema8", "Tema8\Tema8.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tema9", "Tema9\Tema9.csproj", "{ECEE0172-7C25-4727-BCB9-AC66C708373D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema10", "Tema10\Tema10.csproj", "{5A018065-BF0C-451C-BFF4-61DC22678DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tema10", "Tema10\Tema10.csproj", "{5A018065-BF0C-451C-BFF4-61DC22678DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema11", "Tema11\Tema11.csproj", "{5C686832-B522-4C0A-A68B-D311800A2CBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{5A018065-BF0C-451C-BFF4-61DC22678DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A018065-BF0C-451C-BFF4-61DC22678DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A018065-BF0C-451C-BFF4-61DC22678DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C686832-B522-4C0A-A68B-D311800A2CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C686832-B522-4C0A-A68B-D311800A2CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C686832-B522-4C0A-A68B-D311800A2CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C686832-B522-4C0A-A68B-D311800A2CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
